@@ -1,0 +1,5 @@
+Bu proje Lucene 3.6 ya Zemberek kütüphanesi entegrasyonu ile türkçe filtreleme sağlanması amacıyla oluşturulmuştur. Lisans hakları olarak Apache ve Zemberek'te lisans neyse, bunda da o dur. (Adamlar neler yapmış açık kaynak, bunu mu saklıyacağız?) İstenildiği gibi geliştirilebilir.
+
+Türkçe filtre dosyaları org.LuceneZemberek.analysis.turkish paketi içindedir.
+
+Örnek aratma yapmak için org.LuceneZemberek.Ornek paketi içindeki Deneme.java çalıştırılabilir.
